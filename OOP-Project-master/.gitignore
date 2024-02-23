@@ -1,0 +1,13 @@
+
+cmake-build-debug/
+
+.idea/
+tmp/
+build/
+.vscode
+vcpkg/
+doc/sqlpp11
+
+cmake-build-debug-coverage/
+
+test_build/
