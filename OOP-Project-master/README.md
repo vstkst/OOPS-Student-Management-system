@@ -1,10 +1,5 @@
 # OOP Major Practical Design - Student management system C++
 
-Version : 1.1.0
-
-Authors: Akide Liu (); Andrew Wang (); Chi Wang () 
-
-— The University of Adelaide
 
 ---
 
